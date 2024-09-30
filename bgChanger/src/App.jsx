@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>React Started</h1>
+      <h2>Random text</h2>
     </>
   )
 }
